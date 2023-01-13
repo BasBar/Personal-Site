@@ -35,14 +35,14 @@ h3 {
     border-style: none none dotted;
     border-width:20px;
     width:10%;
-    color:#EAF6F6;
+    color:#D3E0DC;
     margin: 5rem auto 3.75rem auto;
 }
 .hr-below-skills {
     border-style: none none dotted;
     border-width:20px;
     width:10%;
-    color:#EAF6F6;
+    color:#D3E0DC;
     margin-bottom: 5rem;
 }
 
@@ -57,8 +57,14 @@ h3 {
 }
 
 .middle-container {
-    margin: 6.25rem auto;
+    background-color: #EAFDFC;
     
+    padding:6.25rem;
+    
+}
+
+.hill {
+    width: 50%;
 }
 
 .bottom-container {
@@ -72,11 +78,13 @@ h3 {
     position:absolute;
     left:20%;
     top:55%;
+    width:10%;
 }
 .top-cloud {
     position:absolute;
     right:20%;
     top:10%;
+    width:10%;
 }
 
 .pro {
